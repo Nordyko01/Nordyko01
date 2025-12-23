@@ -19,6 +19,9 @@ Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de sof
   <a href="https://www.instagram.com/cossengue2506/">
     <img src="https://img.shields.io/badge/Instagram-@cossengue2506-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/jorge-nunes-a57b0a296/">
+    <img src="https://img.shields.io/badge/linkedin-jorge-nunes--E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---

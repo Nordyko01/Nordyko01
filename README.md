@@ -1,2 +1,2 @@
-## console.log("Hello Words")👋
+## console.log("Hello world")👋
 
